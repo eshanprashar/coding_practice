@@ -6,8 +6,10 @@
     - [] SELF
     - [] CROSS
 - [] SUB-QUERIES
+- [] CASE WHEN
 - [] WINDOW FUNCTIONS
     - [] LAG and LEAD
+- [] TRANSACTIONS
 - [] QUERY OPTIMIZATION
 ==================================
 - [] HACKERRANK EASY
