@@ -1,11 +1,14 @@
 ### List of Topics:
+- [] GENERAL 
 - [] JOINS:
     - [X] INNER
     - [] OUTER
     - [X] LEFT/RIGHT
     - [] SELF
     - [] CROSS
-- [X] SUB-QUERIES
+- [X] SUB-QUERIES AND OTHER FUNCTIONS
+    - [X] Using WHERE EXISTS clause (not good optimization)
+      
 - [] CASE WHEN
 - [X] WINDOW FUNCTIONS (same as filtering in Excel)
     - [X] ROW_NUMBER
@@ -15,8 +18,17 @@
     - [X] NTILE - similar to percentile
     - [X] LAG() and LEAD() - if for a given partition and order, we want to get the nth previous value or the nth next value. Format is (column, n, default)
 
+- [] DATE-TIME MANIPULATIONS
+    - [X] Using DATE_ADD(current_date, INTERVAL 1 DAY)
+
+==================================
+- [] General best practices of writing queries
+    - [X] Using IFNULL to get default null value
+
 - [] TRANSACTIONS
 - [] QUERY OPTIMIZATION
+    - [X] INDEXING
+
 ==================================
 - [] HACKERRANK EASY
 - [] HACKERRANK MEDIUM
