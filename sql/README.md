@@ -1,14 +1,20 @@
 ### List of Topics:
 - [] JOINS:
-    - [] INNER
+    - [X] INNER
     - [] OUTER
-    - [] LEFT/RIGHT
+    - [X] LEFT/RIGHT
     - [] SELF
     - [] CROSS
-- [] SUB-QUERIES
+- [X] SUB-QUERIES
 - [] CASE WHEN
-- [] WINDOW FUNCTIONS
-    - [] LAG and LEAD
+- [X] WINDOW FUNCTIONS (same as filtering in Excel)
+    - [X] ROW_NUMBER
+    - [X] RANK - 1,1,1,4
+    - [X] DENSE_RANK - 1,1,1,2
+    - [X] PERCENT RANK 
+    - [X] NTILE - similar to percentile
+    - [X] LAG() and LEAD() - if for a given partition and order, we want to get the nth previous value or the nth next value. Format is (column, n, default)
+
 - [] TRANSACTIONS
 - [] QUERY OPTIMIZATION
 ==================================
