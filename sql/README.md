@@ -4,7 +4,7 @@
     - [X] INNER
     - [] OUTER
     - [X] LEFT/RIGHT
-    - [] SELF
+    - [X] SELF
     - [] CROSS
 - [X] SUB-QUERIES AND OTHER FUNCTIONS
     - [X] Using WHERE EXISTS clause (not good optimization)
