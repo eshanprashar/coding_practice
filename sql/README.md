@@ -9,8 +9,9 @@
 - [X] SUB-QUERIES AND OTHER FUNCTIONS
     - [X] Using WHERE EXISTS clause (not good optimization)
       
-- [] CASE WHEN
+- [X] CASE WHEN
 - [X] WINDOW FUNCTIONS (same as filtering in Excel)
+    - [] **PRACTICE WITH RECURSIVE CTES**
     - [X] ROW_NUMBER
     - [X] RANK - 1,1,1,4
     - [X] DENSE_RANK - 1,1,1,2
