@@ -6,8 +6,10 @@
     - [X] LEFT/RIGHT
     - [X] SELF
     - [] CROSS
+
 - [X] SUB-QUERIES AND OTHER FUNCTIONS
     - [X] Using WHERE EXISTS clause (not good optimization)
+    - [X] Using Concatenation, Upper and Lower for string cleaning
       
 - [X] CASE WHEN
 - [X] WINDOW FUNCTIONS (same as filtering in Excel)
